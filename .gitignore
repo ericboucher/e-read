@@ -108,3 +108,6 @@ build/
 
 # Sytem
 *.DS_Store
+
+# Firebase
+.firebase
