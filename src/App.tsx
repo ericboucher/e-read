@@ -3,7 +3,7 @@ import './App.css';
 import { getUrlData } from './services/getUrlData';
 import { getReadableArticle } from './services/readability';
 
-const articleUrl = 'https://atlantico.fr/article/decryptage/comment-les-bobos-ont-accouche-de-notre-democratie-malade--et-c-est-leur-pere-a-tous-qui-se-livre-a-un-grand-mea-culpa--thibault-muzergues';
+const articleUrl = 'https://www.lemonde.fr/planete/article/2021/11/08/covid-19-en-allemagne-le-taux-d-incidence-a-atteint-201-1-sur-les-sept-derniers-jours_6101374_3244.html';
 
 function App() {
 
